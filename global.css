@@ -1,0 +1,42 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-istok-web: "Istok Web";
+  --font-russo-one: "Russo One";
+  --font-keania-one: "Keania One";
+  --font-lalezar: Lalezar;
+  --font-mohave: Mohave;
+  --font-kings: Kings;
+  --font-kadwa: Kadwa;
+  --font-karla: Karla;
+  --font-inter: Inter;
+  --font-jura: Jura;
+
+  /* font sizes */
+  --font-size-6xl: 25px;
+  --font-size-5xl: 24px;
+  --font-size-29xl: 48px;
+  --font-size-21xl: 40px;
+  --font-size-45xl: 64px;
+  --font-size-77xl: 96px;
+  --font-size-109xl: 128px;
+  --font-size-13xl: 32px;
+
+  /* Colors */
+  --color-coral: #ff8357;
+  --color-white: #fff;
+  --color-black: #000;
+  --color-teal: #3e827e;
+  --color-dimgray: #644444;
+  --color-gainsboro: #d9d9d9;
+
+  /* border radiuses */
+  --br-31xl: 50px;
+  --br-11xl: 30px;
+  --br-xl: 20px;
+  --br-131xl: 150px;
+}
